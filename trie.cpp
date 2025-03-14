@@ -1,7 +1,4 @@
-#include<bits/stdc++.h>
-using namespace std;
-
-f
+ 
 
 struct Node { 
     Node* links[26]; 
@@ -61,9 +58,5 @@ public:
     }
 };
 
-
-int main(){
-    solve();
-}
-
+ 
  
